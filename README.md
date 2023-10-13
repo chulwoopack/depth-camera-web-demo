@@ -1,4 +1,4 @@
-DISCONTINUATION OF PROJECT
+testDISCONTINUATION OF PROJECT
 
 This project will no longer be maintained by Intel.
 
